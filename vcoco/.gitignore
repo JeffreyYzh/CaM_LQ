@@ -1,0 +1,19 @@
+__pycache__
+
+# Dataset
+mscoco2014
+annotations_trainval2014.zip
+train2014.zip
+val2014.zip
+
+# Visualised results
+visualisations
+*.html
+
+# Checkpoints
+checkpoints
+
+# Detections
+detections/train*
+detections/val*
+detections/test*
