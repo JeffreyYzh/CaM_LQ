@@ -1,0 +1,19 @@
+__pycache__
+
+# Dataset
+hico_20160224_det
+OpenDataLab___HICO-DET
+hico_20160224_det.tar.gz
+# Visualised results
+visualisations
+*.html
+
+# Checkpoints
+checkpoints
+
+# Detections
+detections/train*
+detections/test*
+
+# MacOS
+.DS_Store
